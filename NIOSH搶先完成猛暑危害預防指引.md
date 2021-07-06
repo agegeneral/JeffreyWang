@@ -62,7 +62,7 @@ Po-Liang Chen
 <br />
 
 張文棋  
-[熱中症預防對策2]()
+[熱中症預防對策2](https://github.com/agegeneral/JeffreyWang/blob/327ad94090afe97ba8ceb4e595fe0e37769e973b/h0616-1b_0001.pdf)
 <br />
 <br />
 

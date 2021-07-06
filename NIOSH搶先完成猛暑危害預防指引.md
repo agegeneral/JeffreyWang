@@ -78,8 +78,8 @@ Po-Liang Chen
 在官方的部份應該是以這一個為主  
 [「職場における熱中症予防対策」をご存じですか？](https://github.com/agegeneral/JeffreyWang/blob/79f3e0f9475f2e31193aab91ec519736b46515cd/%E3%80%8C%E8%81%B7%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E7%86%B1%E4%B8%AD%E7%97%87%E4%BA%88%E9%98%B2%E5%AF%BE%E7%AD%96%E3%80%8D%E3%82%92%E3%81%94%E5%AD%98%E3%81%98%E3%81%A7%E3%81%99%E3%81%8B%EF%BC%9F.pdf)  
 但是整體性的部份是在這邊  
-http://www.mhlw.go.jp/new-info/kobetu/roudou/gyousei/anzen/0906-1.html
-  
+http://www.mhlw.go.jp/new-info/kobetu/roudou/gyousei/anzen/0906-1.html  
+[Github備份](https://github.com/agegeneral/JeffreyWang/tree/main/%E8%81%B7%E5%A0%B4%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E7%86%B1%E4%B8%AD%E7%97%87%E4%BA%88%E9%98%B2%E5%AF%BE%E7%AD%96%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB)
   
 因為細項很多！！最近我要忙環保申請跟工廠設備的先前預置管理，所以沒有比較多的時間！！  
 我想我應該可以在7/25將一部分的資料弄出來，不過在這裡面，我想應該要針對年紀過大的人員進行說明，因為很多工地的粗工年紀都有點大了！！  

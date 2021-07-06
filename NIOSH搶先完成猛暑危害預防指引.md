@@ -51,7 +51,7 @@ Po-Liang Chen
 
 
 張文棋
-對輸了！！完敗！！！
+![熱中症預防對策](https://github.com/agegeneral/JeffreyWang/blob/main/%E7%86%B1%E4%B8%AD%E7%97%87%E9%A0%90%E9%98%B2%E5%B0%8D%E7%AD%96.jpg?raw=true)
 <br />
 <br />
 

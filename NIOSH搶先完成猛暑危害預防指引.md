@@ -50,11 +50,21 @@ Po-Liang Chen
 我打算把你原po的危害預防指引co下來，儘快在7月底前完成它！我的目標是說服長官同意讓我發布新聞稿！
 
 
-張文棋
-![熱中症預防對策](https://github.com/agegeneral/JeffreyWang/blob/main/%E7%86%B1%E4%B8%AD%E7%97%87%E9%A0%90%E9%98%B2%E5%B0%8D%E7%AD%96.jpg?raw=true)
+張文棋  
+[熱中症預防對策](https://github.com/agegeneral/JeffreyWang/blob/984b6f14c74ec40d3e0a42264101899b032d58a3/%E7%86%B1%E4%B8%AD%E7%97%87%E9%A0%90%E9%98%B2%E5%B0%8D%E7%AD%96.jpg)
 <br />
 <br />
 
+Po-Liang Chen
+**管理員**  
+文琪兄，麻煩請先翻譯成中文吧~~這樣比較快啦~~雖然慢慢看也看得懂！
+<br />
+<br />
+
+張文棋  
+[熱中症預防對策2]()
+<br />
+<br />
 
 
 <br />

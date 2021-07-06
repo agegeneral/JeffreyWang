@@ -31,22 +31,10 @@ Po-Liang Chen
 
 Po-Liang Chen
 **管理員**  
-I knew what you meaning for~~
-
-Po-Liang Chen
-**管理員**  
+I knew what you meaning for~~  
 不過NIOSH有提到個人防護具可能會增加熱危害的問題，我們倒是有漏掉~~
-
-Po-Liang Chen
-**管理員**  
-社員們太安靜了~~我相信我們的社員不乏高手，大家臥虎藏龍，不願展露~~
-
-Po-Liang Chen
-**管理員**  
-我們一起把它完成！總是要有人跳出來做這件事情！
-
-Po-Liang Chen
-**管理員**  
+社員們太安靜了~~我相信我們的社員不乏高手，大家臥虎藏龍，不願展露~~  
+我們一起把它完成！總是要有人跳出來做這件事情！  
 我打算把你原po的危害預防指引co下來，儘快在7月底前完成它！我的目標是說服長官同意讓我發布新聞稿！
 
 
@@ -62,9 +50,23 @@ Po-Liang Chen
 <br />
 
 張文棋  
-[熱中症預防對策2](https://github.com/agegeneral/JeffreyWang/blob/327ad94090afe97ba8ceb4e595fe0e37769e973b/h0616-1b_0001.pdf)
+[熱中症預防對策2](https://github.com/agegeneral/JeffreyWang/blob/327ad94090afe97ba8ceb4e595fe0e37769e973b/h0616-1b_0001.pdf)  
+我有翻譯了阿！！就是職衛手冊裡面的阿！！只是熱危害標準不一樣而已
 <br />
 <br />
+
+Po-Liang Chen  
+**管理員** 
+文琪兄也一起來吧！
+<br />
+<br />
+
+張文棋   
+還有這個日本的判定部分！！比台灣多了代謝熱！！可以參考！！
+<br />
+<br />
+
+
 
 
 <br />

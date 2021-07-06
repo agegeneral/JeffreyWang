@@ -112,4 +112,4 @@ wiki的兩個公式太複雜了啦~~ 我們直接引用那兩張表好了，省�
 <br />
 <br />
 <br />
-https://www.facebook.com/groups/vent.tw/posts/10154396890910377/
+FB：https://www.facebook.com/groups/vent.tw/posts/10154396890910377/
